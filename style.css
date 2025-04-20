@@ -1,0 +1,26 @@
+body {
+    background-color: #fff8f0;
+    color: #4b2e2e;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #b22222;
+  }
+  
+  img {
+    max-width: 300px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px #aaa;
+  }
+  
+  a {
+    color: #cc5500;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 15px;
+  }
+  
